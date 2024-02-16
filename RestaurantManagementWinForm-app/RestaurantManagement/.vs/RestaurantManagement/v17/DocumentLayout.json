@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VANNAM\\Downloads\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|c:\\users\\vannam\\downloads\\restaurantmanagementwinform-app\\restaurantmanagementwinform-app\\restaurantmanagement\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|solutionrelative:dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|c:\\users\\vannam\\downloads\\restaurantmanagementwinform-app\\restaurantmanagementwinform-app\\restaurantmanagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|c:\\users\\vannam\\downloads\\restaurantmanagementwinform-app\\restaurantmanagementwinform-app\\restaurantmanagement\\restaurantmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|solutionrelative:restaurantmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|c:\\users\\vannam\\downloads\\restaurantmanagementwinform-app\\restaurantmanagementwinform-app\\restaurantmanagement\\dao\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|solutionrelative:dao\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|c:\\users\\vannam\\downloads\\restaurantmanagementwinform-app\\restaurantmanagementwinform-app\\restaurantmanagement\\frmtablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|solutionrelative:frmtablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|c:\\users\\vannam\\downloads\\restaurantmanagementwinform-app\\restaurantmanagementwinform-app\\restaurantmanagement\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|solutionrelative:frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|c:\\users\\vannam\\downloads\\restaurantmanagementwinform-app\\restaurantmanagementwinform-app\\restaurantmanagement\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|solutionrelative:frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|c:\\users\\vannam\\downloads\\restaurantmanagementwinform-app\\restaurantmanagementwinform-app\\restaurantmanagement\\dao\\fooddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B904982-3067-4154-9764-9EBBC8334FAB}|RestaurantManagement.csproj|solutionrelative:dao\\fooddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 762,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\VANNAM\\Downloads\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\VANNAM\\Downloads\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-16T17:07:10.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestaurantManagement",
+              "DocumentMoniker": "C:\\Users\\VANNAM\\Downloads\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\RestaurantManagement.csproj",
+              "RelativeDocumentMoniker": "RestaurantManagement.csproj",
+              "ToolTip": "C:\\Users\\VANNAM\\Downloads\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\RestaurantManagement.csproj",
+              "RelativeToolTip": "RestaurantManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-16T17:02:57.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\VANNAM\\Downloads\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "DAO\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\VANNAM\\Downloads\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "DAO\\DataProvider.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T16:58:23.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "C:\\Users\\VANNAM\\Downloads\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\DAO\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\CategoryDAO.cs",
+              "ToolTip": "C:\\Users\\VANNAM\\Downloads\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\DAO\\CategoryDAO.cs",
+              "RelativeToolTip": "DAO\\CategoryDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T02:12:21.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodDAO.cs",
+              "DocumentMoniker": "C:\\Users\\VANNAM\\Downloads\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\DAO\\FoodDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\FoodDAO.cs",
+              "ToolTip": "C:\\Users\\VANNAM\\Downloads\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\DAO\\FoodDAO.cs",
+              "RelativeToolTip": "DAO\\FoodDAO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T02:12:21.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\VANNAM\\Downloads\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "frmAdmin.cs",
+              "ToolTip": "C:\\Users\\VANNAM\\Downloads\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\frmAdmin.cs",
+              "RelativeToolTip": "frmAdmin.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwC0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T02:12:21.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VANNAM\\Downloads\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "frmAdmin.cs",
+              "ToolTip": "C:\\Users\\VANNAM\\Downloads\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\frmAdmin.cs [Design]",
+              "RelativeToolTip": "frmAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T02:12:21.704Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmTableManager.cs",
+              "DocumentMoniker": "C:\\Users\\VANNAM\\Downloads\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\frmTableManager.cs",
+              "RelativeDocumentMoniker": "frmTableManager.cs",
+              "ToolTip": "C:\\Users\\VANNAM\\Downloads\\RestaurantManagementWinForm-app\\RestaurantManagementWinForm-app\\RestaurantManagement\\frmTableManager.cs",
+              "RelativeToolTip": "frmTableManager.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T02:12:21.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 25,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 83,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\bin\Debug\net6.0-windows\RestaurantManagement.exe
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\bin\Debug\net6.0-windows\RestaurantManagement.deps.json
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\bin\Debug\net6.0-windows\RestaurantManagement.runtimeconfig.json
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\bin\Debug\net6.0-windows\RestaurantManagement.dll
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\bin\Debug\net6.0-windows\RestaurantManagement.pdb
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.frmLogin.resources
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.csproj.GenerateResource.cache
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.AssemblyInfoInputs.cache
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.AssemblyInfo.cs
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.csproj.CoreCompileInputs.cache
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.dll
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\obj\Debug\net6.0-windows\refint\RestaurantManagement.dll
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.pdb
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.genruntimeconfig.cache
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\obj\Debug\net6.0-windows\ref\RestaurantManagement.dll
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.frmTableManager.resources
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.frmAccountProfile.resources
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.frmAdmin.resources
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\bin\Debug\net6.0-windows\RestaurantManagement.dll.config
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.csproj.AssemblyReference.cache
+D:\Coding Files\C# .NET\RestaurentManagement\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.csproj.CopyComplete
+C:\Users\VANNAM\Downloads\RestaurantManagementWinForm-app\RestaurantManagementWinForm-app\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.frmAccountProfile.resources
+C:\Users\VANNAM\Downloads\RestaurantManagementWinForm-app\RestaurantManagementWinForm-app\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.frmAdmin.resources
+C:\Users\VANNAM\Downloads\RestaurantManagementWinForm-app\RestaurantManagementWinForm-app\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.frmLogin.resources
+C:\Users\VANNAM\Downloads\RestaurantManagementWinForm-app\RestaurantManagementWinForm-app\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.frmTableManager.resources
+C:\Users\VANNAM\Downloads\RestaurantManagementWinForm-app\RestaurantManagementWinForm-app\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.csproj.GenerateResource.cache
+C:\Users\VANNAM\Downloads\RestaurantManagementWinForm-app\RestaurantManagementWinForm-app\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VANNAM\Downloads\RestaurantManagementWinForm-app\RestaurantManagementWinForm-app\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.AssemblyInfoInputs.cache
+C:\Users\VANNAM\Downloads\RestaurantManagementWinForm-app\RestaurantManagementWinForm-app\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.AssemblyInfo.cs
+C:\Users\VANNAM\Downloads\RestaurantManagementWinForm-app\RestaurantManagementWinForm-app\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.csproj.CoreCompileInputs.cache
+C:\Users\VANNAM\Downloads\RestaurantManagementWinForm-app\RestaurantManagementWinForm-app\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.dll
+C:\Users\VANNAM\Downloads\RestaurantManagementWinForm-app\RestaurantManagementWinForm-app\RestaurantManagement\obj\Debug\net6.0-windows\refint\RestaurantManagement.dll
+C:\Users\VANNAM\Downloads\RestaurantManagementWinForm-app\RestaurantManagementWinForm-app\RestaurantManagement\obj\Debug\net6.0-windows\RestaurantManagement.pdb
